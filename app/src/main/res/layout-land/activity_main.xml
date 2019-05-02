@@ -29,8 +29,8 @@
                 android:layout_height="match_parent">
 
             <androidx.appcompat.widget.AppCompatImageView
-                    android:layout_width="140dp"
-                    android:layout_height="140dp"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
                     android:background="@drawable/ic_jasmin_main"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintLeft_toLeftOf="parent"
@@ -43,7 +43,7 @@
             <androidx.appcompat.widget.AppCompatTextView
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_margin="20dp"
+                    android:layout_margin="10dp"
                     app:layout_constraintLeft_toRightOf="@id/cardViewImage"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintRight_toRightOf="parent"
@@ -55,7 +55,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="5dp"
-                    android:layout_marginLeft="20dp"
+                    android:layout_marginLeft="10dp"
                     app:layout_constraintLeft_toRightOf="@id/cardViewImage"
                     app:layout_constraintTop_toBottomOf="@id/cardViewTitle"
                     app:layout_constraintRight_toRightOf="parent"

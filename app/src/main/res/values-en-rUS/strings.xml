@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="main_text">This is the main screen.</string>
+    <string name="bandeau_id">bandeauTop</string>
+    <string name="pkmName">Carapuce</string>
+    <string name="pkmBaseline">Water Pokemon</string>
+    <string name="plantDescription">Jasminum officinale is a vigorous, twining, bright, deciduous climber with sharply
+        pointed pinnate leaves and clusters of starry,
+    </string>
+    <string name="plantDescription2">Its pure white flowers in summer, which are the source of its heady scent.</string>
+    <string name="plantName">The jasmin</string>
+    <string name="plantBaseline">Aromatic plant</string>
+</resources>

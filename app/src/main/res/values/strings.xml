@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">Layouts</string>
-    <string name="main_text">This is the main screen.</string>
+    <string name="main_text">C\'est l\'écran principal</string>
     <string name="bandeau_id">bandeauTop</string>
-    <string name="pkmName">Le jasmin</string>
-    <string name="pkmBaseline">Plante aromatique</string>
+    <string name="pkmName">Carapuce</string>
+    <string name="pkmBaseline">Pokemon Eau</string>
+    <string name="plantName">Le jasmin</string>
+    <string name="plantBaseline">Plante aromatique</string>
     <string name="plantDescription">Le jasmin fait partie de la famille des Oleacées, c"est une plante grimpante originaire d"Asie et d"Égypte.
     </string>
     <string name="plantDescription2">Ses fleurs sont souvent blanches. Elles ont la forme d"un entonnoir de 3 à 5 cm de long.

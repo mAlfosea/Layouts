@@ -5,6 +5,7 @@ import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_card.*
 import org.jetbrains.anko.AnkoLogger
 import org.jetbrains.anko.browse
+import org.jetbrains.anko.startActivity
 import org.jetbrains.anko.toast
 
 class MainActivity : AppCompatActivity(), AnkoLogger {
@@ -20,7 +21,8 @@ class MainActivity : AppCompatActivity(), AnkoLogger {
         }
 
         cardWebButton.setOnClickListener {
-            browse("https://www.pokepedia.fr/Carapuce")
+            //browse("https://www.pokepedia.fr/Carapuce")
+            startActivity<CardActivity>()
         }
     }
 
